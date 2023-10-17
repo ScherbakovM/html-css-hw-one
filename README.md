@@ -7,7 +7,8 @@
 
 **page two**
 
-![image](https://github.com/ScherbakovM/html-css-hw-one/assets/109952823/b94ccab1-ff5d-4d44-8c28-392e708d5c13)
+![image](https://github.com/ScherbakovM/html-css-hw-one/assets/109952823/4a4a4421-0012-450b-9b67-3b77e0cbcf5c)
+
 
 
 **page three**
