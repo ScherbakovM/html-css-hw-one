@@ -12,6 +12,6 @@
 
 **page three**
 
-![Uploading image.png…]()
+![image](https://github.com/ScherbakovM/html-css-hw-one/assets/109952823/065fb91d-e6d0-4152-a555-f932abadb068)
 
 
